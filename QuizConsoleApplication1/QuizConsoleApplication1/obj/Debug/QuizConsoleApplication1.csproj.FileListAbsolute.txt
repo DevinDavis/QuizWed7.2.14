@@ -1,0 +1,6 @@
+C:\Users\Devin\Documents\GitHub\QuizWed7.2.14\QuizConsoleApplication1\QuizConsoleApplication1\bin\Debug\QuizConsoleApplication1.exe.config
+C:\Users\Devin\Documents\GitHub\QuizWed7.2.14\QuizConsoleApplication1\QuizConsoleApplication1\obj\Debug\QuizConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Devin\Documents\GitHub\QuizWed7.2.14\QuizConsoleApplication1\QuizConsoleApplication1\bin\Debug\QuizConsoleApplication1.exe
+C:\Users\Devin\Documents\GitHub\QuizWed7.2.14\QuizConsoleApplication1\QuizConsoleApplication1\bin\Debug\QuizConsoleApplication1.pdb
+C:\Users\Devin\Documents\GitHub\QuizWed7.2.14\QuizConsoleApplication1\QuizConsoleApplication1\obj\Debug\QuizConsoleApplication1.exe
+C:\Users\Devin\Documents\GitHub\QuizWed7.2.14\QuizConsoleApplication1\QuizConsoleApplication1\obj\Debug\QuizConsoleApplication1.pdb

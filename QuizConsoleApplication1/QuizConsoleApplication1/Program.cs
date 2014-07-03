@@ -10,8 +10,8 @@ namespace QuizConsoleApplication1
     {
         static void Main(string[] args)
         {
-            int a = 100;
-            int b = 50;
+            int a = 50;
+            int b = 100;
             int ret;
             FindSmallest n = new FindSmallest();
 
@@ -23,7 +23,7 @@ namespace QuizConsoleApplication1
         {
             int result;
 
-            if (a > b)
+            if (a < b)
                 result = a;
 
             else

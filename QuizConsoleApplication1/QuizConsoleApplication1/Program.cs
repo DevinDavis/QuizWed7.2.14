@@ -7,15 +7,17 @@ using System.Threading.Tasks;
 namespace QuizConsoleApplication1
 {
     public class FindSmallest
-    {
-        static void Main(string[] args)
+    { 
+        static void Main(string[]  args)
         {
+            FindSmallest n = new FindSmallest();
             int a = 50;
             int b = 100;
             int ret;
-            FindSmallest n = new FindSmallest();
+            
 
             ret = n.FindMin(a, b);
+           
             Console.WriteLine("Smallest Interger is {0}", ret);
             Console.ReadLine();
         }
@@ -30,7 +32,7 @@ namespace QuizConsoleApplication1
                 result = b;
 
             return result;
+ 
         }
     }
 }
-
